@@ -1,4 +1,4 @@
-﻿namespace TeduCoreApp.Data.Enumes
+﻿namespace TeduCoreApp.Data.Enums
 {
     public enum Status
     {

@@ -1,4 +1,4 @@
-﻿using TeduCoreApp.Data.Enumes;
+﻿using TeduCoreApp.Data.Enums;
 
 namespace TeduCoreApp.Data.Interfaces
 {
